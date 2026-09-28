@@ -1,1 +1,1 @@
-A Python-based algorithmic simulation that models Pac-Man navigating through a maze environment. This project uses stacks to apply Depth First Search algorithm on a 2d grid representation of maze which has stationary walls, ghosts too.
+
